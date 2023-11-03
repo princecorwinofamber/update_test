@@ -1,3 +1,1 @@
-{
-  value1: "1m",
-}
+{"text":"Hello, world!"}
